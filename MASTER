@@ -1,0 +1,2 @@
+{<img src="https://travis-ci.org/mimmi20/browscap.svg?branch=issue-672" alt="Build Status" />}[https://travis-ci.org/mimmi20/browscap]
+sudo ufw limit ssh
